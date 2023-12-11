@@ -2,7 +2,6 @@
 
 var input = File.ReadAllLines("input.txt");
 
-// var solution = new Solution(input);
 var result = Solution.PartOne(input);
 var result2 = Solution.PartTwo(input);
 
